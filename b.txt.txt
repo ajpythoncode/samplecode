@@ -1,1 +1,7 @@
+<<<<<<< HEAD
 this change made the dev3
+=======
+this change made the dev1
+
+this change for file in dev1....
+>>>>>>> 7be3843e64af241501592b529e9ce0bb546ebeff
